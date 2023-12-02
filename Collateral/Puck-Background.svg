@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7in"
+   height="5in"
+   viewBox="0 0 177.8 127"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Puck-Background.svg"
+   inkscape:export-filename="Puck-Background.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="347.54297"
+     inkscape:cy="238.64853"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g10"
+       inkscape:label="Item"
+       transform="translate(-11.047914,-150.875)">
+      <circle
+         style="fill:#ff0000;fill-opacity:1;stroke-width:1.22741"
+         id="path1"
+         cx="99.947914"
+         cy="214.375"
+         inkscape:label="super-exterior circle"
+         r="50" />
+      <circle
+         style="fill:#000100;fill-opacity:1;stroke-width:0.261938"
+         id="path1-0"
+         cx="99.947914"
+         cy="214.375"
+         r="49.5"
+         inkscape:label="exterior circle" />
+      <circle
+         style="fill:#000100;fill-opacity:1;stroke-width:0.271198"
+         id="circle8-6"
+         cx="195.0016"
+         cy="-133.49416"
+         inkscape:label="interior circle"
+         transform="rotate(99.508538)"
+         r="41" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Constantia;-inkscape-font-specification:'Constantia, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#8ad8d8;fill-opacity:1;stroke-width:0.264583"
+         id="text1"><textPath
+           xlink:href="#circle8-6"
+           id="textPath1"><tspan
+             id="tspan1"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Constantia;-inkscape-font-specification:'Constantia, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#8ad8d8;fill-opacity:1;stroke-width:0.264583">14 October 2023      Rachel and Josh      Remember this Day     14 October 2023      Rachel and Josh      Remember this Day </tspan></textPath></text>
+    </g>
+  </g>
+</svg>

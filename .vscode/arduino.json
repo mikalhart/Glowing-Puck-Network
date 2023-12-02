@@ -1,0 +1,8 @@
+{
+    "configuration": "JTAGAdapter=default,PSRAM=opi,FlashMode=qio,FlashSize=16M,LoopCore=1,EventsCore=1,USBMode=hwcdc,CDCOnBoot=cdc,MSCOnBoot=default,DFUOnBoot=default,UploadMode=default,PartitionScheme=min_spiffs,CPUFreq=240,UploadSpeed=921600,DebugLevel=warn,EraseFlash=none",
+    "board": "esp32:esp32:esp32s3",
+    "programmer": "esptool",
+    "sketch": "Wedding-Puck\\Wedding-Puck.ino",
+    "port": "COM10",
+    "output": "build"
+}

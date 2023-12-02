@@ -1,0 +1,4 @@
+**/build/**
+**/private.h
+.vs/**
+.vscode/c_cpp_properties.json
