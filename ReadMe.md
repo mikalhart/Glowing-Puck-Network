@@ -16,9 +16,9 @@ A speaker suddenly stands and explains to the murmuring guests that the  Glow we
 
 ## A New Surprise: More Glows to Come
 
-As the dinner progresses, the Pucks continue to Glow cheerily. Eventually, they fade away and resume their inert state. The speaker rises once again.  The initial Glow has ended, she explains. We are to take our Pucks home, join them to our house WiFi, and place them somewhere they can be easily seen.
+As the dinner progresses, the Pucks continue to Glow cheerily, but eventually they fade away and resume their inert state. The speaker rises once again.  The initial Glow phase has ended, she explains. In preparation for the next, we are to take our Pucks home, join them to our house WiFi, and place them in a prominent location.
 
-We learn that we have been given the power to recreate the wedding Glow at any time by touching the brass discs hidden on the underside.  An activated Puck sends a quiet message to its sibling Pucks around the world, inviting them all to join in a five-minute Glow. Touching the brass discs triggers a global chorus of light and remembrance.
+We learn that we have been given the power to recreate the wedding Glow at any time by touching the brass discs hidden on the underside.  An activated Puck sends a quiet message to its siblings around the world, inviting them all to join in a five-minute Glow. Touching the brass discs triggers a global chorus of light and remembrance.
 
 It's a beautiful way for us to commemorate the wedding and keep its memory fresh and alive.  It's how we'll reach out and say, "we remember you, and we remember this day!"
 
