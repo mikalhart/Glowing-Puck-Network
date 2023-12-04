@@ -42,7 +42,7 @@ After the Pucks have been distributed to their new homes, they must be connected
 
 Teaching a Puck its new home's WiFi credentials involves putting it into "WiFi Training Mode" and configuring it with a cell phone or tablet. Instructions can be found in the [WiFi Training](WiFi-Training.md) document.
 
-Once set up, a Puck at home wakes whenever its brass discs are touched.  This triggers a glow that cascades around the world (limit one activation per Puck per day).
+Once set up, a Puck at home wakes whenever its brass discs are touched.  This triggers a glow that cascades around the world, with a limit of one activation per Puck per day.
 
 A Puck at home also wakes each minute to check whether any other Puck on the network has activated a Glow.  If so, it joins in!
 
