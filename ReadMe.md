@@ -1,39 +1,50 @@
 # The Glowing Wedding Puck
 
-Glowing Pucks are small epoxy sculptures with unexpected surprises, designed to decorate tables at a wedding/celebration dinner.  They are made of dried English wildflowers embedded in an epoxy 'coaster', encased in a 3D-printed shell.![Pre-glow Puck](Images/Puck.jpg)
+Glowing Pucks are coaster-sized objects ostensibly built to decorate tables at a wedding/celebration dinner, but with a few surprises.  They are small resin sculptures, made of dried English wildflowers embedded in an epoxy disc, encased in a 3D-printed shell.
 
-## A Surprising Glow
+![Pre-glow Puck](Images/Puck.jpg)
 
-At a 'significant moment' at the dinner (e.g. when bride and groom reappear), the Pucks around the room mysteriously begin to glow: first one, then two, and eventually all of them.  Soon the whole room is illuminated with bright, colorful swirling light!
+## A Surprise Glow
+
+At a 'significant moment' in the dinner (e.g. when bride and groom reappear), the various Pucks around the room mysteriously begin to glow: first one... then two... then eventually all of them.  Soon the whole room is illuminated with bright, colorful swirling light!
+
 ![Glowing Pucks](Images/Glowing-Pucks.jpg)
 
-### The Meaning of the Glow
+## Understanding the Glow
 
-A speaker stands and explains to the murmuring guests that the Glowing Pucks are symbols of the love and support we  share for the new couple on the threshold of their married life. The synchonized light-show we are witnessing is to be the first of many such 'Glows', reminding us of the day we   gathered joyfully together in this lovely place.
+A speaker suddenly stands and explains to the murmuring guests that the  Glow we are witnessing is a symbol of the love and support we share for the new couple on the threshold of their married life.  It celebrates that we are a loving people who came together on this memorable day to wish them happiness.
 
-### Taking Home the 'Glow'
+## A New Surprise: More Glows to Come
 
-As the dinner ends, the Glowing Pucks go dark and the speaker rises again.  We are to take our Pucks home, she says, join them to our household WiFi, and place them somewhere they can be easily seen.
+As the dinner progresses, the Pucks continue to Glow cheerily. Eventually, they fade away and resume their inert state. The speaker rises once again.  The initial Glow has ended, she explains. We are to take our Pucks home, join them to our house WiFi, and place them somewhere they can be easily seen.
 
-We learn that each of us will be able to recreate the wedding Glow at home by touching the pair of brass discs hidden on the underside.  A Puck so activated sends a quiet message to its brother Pucks around the world, inviting them to join in a five-minute Glow. Every time one Puck is touched, a global chorus of light is triggered.
+We learn that we have been given the power to recreate the wedding Glow at any time by touching the brass discs hidden on the underside.  An activated Puck sends a quiet message to its sibling Pucks around the world, inviting them all to join in a five-minute Glow. Touching the brass discs triggers a global chorus of light and remembrance.
 
-It's a beautiful way to commemorate the wedding and keep its memory fresh and alive.  It's how we'll say, "we remember this day!"
+It's a beautiful way for us to commemorate the wedding and keep its memory fresh and alive.  It's how we'll reach out and say, "we remember you, and we remember this day!"
+
+## A Final Surprise: Special Anniversary Glow
+
+There is one more surprise in store.  Every year on the date of the wedding anniversary, all the Pucks perform a special anniversary Glow that lasts the entire day.
 
 ## Theory of Operation
 
 ### At the Dinner
 
-The Pucks are built to operate in two different modes.  As celebration table ornaments, they are mostly asleep/inert, running off battery power and invisibly awakening every minute or so to check for special messages.
+The Pucks are built to operate in two different modes.  As table ornaments, they are mostly asleep/inert, running off battery power and invisibly awakening every minute or so to check for special messages.
 
-At the predetermined time, the speaker (or someone in the audience) quietly enables a special 2.4GHz "Hot Spot" on her smartphone.  This is the signal to begin.  When the Pucks next wake from sleep and discover the new WiFi SSID **wedding-fireworks**, they know to begin the spectacular Glow.
+At the predetermined time, the speaker (or someone in the audience) quietly enables a special 2.4GHz "Hot Spot" on her smartphone.  This is the signal to begin.  When the Pucks next wake from sleep and detect the new WiFi SSID **wedding-fireworks**, they know to begin the spectacular Glow.
 
-The Pucks Glow for as long as the special WiFi SSID is enabled.  Once it disappears, they resume their semi-dormant state.
+The Pucks Glow for as long as that special WiFi SSID is enabled.  Once it disappears, they resume their semi-dormant state.
 
 ### At Home
 
-After the Pucks have been distributed to their new homes, they must be connected to WiFi to sync with the Glow network.  By now they should be kept more or less always plugged in.
+After the Pucks have been distributed to their new homes, they must be connected to WiFi to sync with the 'Glow network'.  At this point they should be kept more or less always plugged in.
 
-Teaching a Puck its new home's WiFi credentials involves putting it into WiFi training mode and talking to it with a cell phone. Instructions can be found in the [WiFi Training](WiFi-Training.md) document.
+Teaching a Puck its new home's WiFi credentials involves putting it into "WiFi Training Mode" and talking to it with a cell phone. Instructions can be found in the [WiFi Training](WiFi-Training.md) document.
+
+Once set up, a Puck at home wakes whenever its brass discs are touched.  This triggers a glow that cascades around the world (limit one activation per Puck per day).
+
+A Puck at home wakes every minute to check whether any other Puck on the 'Glow network' has activated a Glow.  If so, it Glows!
 
 ## Build Guide
 
