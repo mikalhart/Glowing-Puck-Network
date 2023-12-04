@@ -4,7 +4,7 @@ It's not too hard to build your own Glowing Pucks.  There's very little electron
 
 The Puck shell needs to be 3D printed.  Other than that, the hardware assembly is trivial.
 
-Software install shouldn't be too tricky for anyone who has done any Arduino programming, though you'll need to get a (free) account at HiveMQ to support the MQTT traffic.  Other MQTT brokers would probably work as well.
+Software install shouldn't be too tricky for anyone who has done any Arduino programming, though you'll need to get a (free) account at HiveMQ to support the MQTT traffic.  Other MQTT brokers would probably work fine as well.
 
 ![The interior of a Puck](Images/Puck-Interior.jpg)
 
@@ -42,7 +42,7 @@ You'll need to procure a handful of electronic and hardware items to build this 
 
 ## Assembling the Electronics
 
-1. **Cut LED strip**.  Cut 9 LEDs from the WS2812B strip.  At 30/meter spacing, this gives just about the right number to surround the 10cm diameter coaster.
+1. **Cut LED strip**.  Cut a strip of 9 LEDs from the WS2812B roll.  At 30/meter spacing, this gives just about the right length to surround the 10cm diameter coaster.
 
 1. **Solder LED Strip**.  Cut and strip about 6cm of the ribbon cable.  Solder one end of the ribbon cable to the 3 inputs om the LED strip and the other end to the LilyGo T7-S3 as follows:
 
@@ -139,12 +139,12 @@ Finally, install and run [Wedding-Coaster.ino](Wedding-Coaster.ino) on each coas
 
 ## General Testing
 
-1. Once the sketch has been successfully installed, the first test is to touch the brass discs.  The LEDs should dimly light in an orange-ish glow that indicates the Puck is trying to connect.  If you don't see any light, check the wiring to the LED strip and to the brass discs. Examine the debug output in the Serial console.  Because WiFi is not yet configured, the LEDs should eventually pulse purple and fade to black.
-1. Try an externally-triggered 'Glow'.  On a phone with a 2.4GHz WiFi Hotspot feature, create a Hotspot called **wedding-fireworks**.  Within a minute or so, the Puck should start Glowing until the Hotspot expires or is disabled.
-1. Configure WiFi via either WiFi Training or Auto-provisioning. (See below.)
-1. Now that WiFi is available, test a locally-triggered 'Glow' by touching the brass discs. If WiFi has been correctly set up, this should initiate a five-minute light show.  If you get a short purple pulsing instead, it means the WiFi connection failed - probably because the credentials were not properly configured.  Red pulsing means things are working properly, but you attempted a second Glow too quickly.
-1. Verify that a quick second Glow attempt does indeed trigger the red pulsing error indication.
-1. If you have built more than one Puck, verify that 'Glowing' one triggers the others.  If it doesn't work, make sure they have all been correctly connected to WiFi.
+1. **Touch Test.** Once the sketch has been successfully installed, the first test is to touch the brass discs.  The LEDs should dimly light in an orange-ish glow that indicates the Puck is trying to connect.  If you don't see any light, check the wiring to the LED strip and to the brass discs. Examine the debug output in the Serial console.  Because WiFi is not yet configured, the LEDs should eventually pulse purple and fade to black.
+1. **Externally-triggered 'Glow' Test.**  On a phone with a 2.4GHz WiFi Hotspot feature, create a Hotspot called **wedding-fireworks**.  Within a minute or so, the Puck should start Glowing until the Hotspot expires or is disabled.
+1. **WiFi Training Test.** Set up WiFi via either WiFi Training or Auto-provisioning. (See below.)
+1. **Locally-triggered 'Glow' Test.** Now that WiFi is available, test a local 'Glow' by touching the brass discs. If WiFi has been correctly set up, this should initiate a five-minute light show.  If you get a short purple pulsing instead, the WiFi connection likely failed - probably because the credentials were not properly configured.  Red pulsing means things are working properly, but you attempted a second Glow too quickly.
+1. **Quick Trigger Test.** Verify that a quick second Glow attempt does indeed trigger the red pulsing error indication.
+1. **Multi-Puck Test.** If you have built more than one Puck, verify that 'Glowing' one triggers the others.  If it doesn't work, make sure they have all been correctly connected to WiFi.
 
 ## WiFi Training Testing
 
