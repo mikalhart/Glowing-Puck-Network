@@ -22,17 +22,17 @@ We learn that we have been given the power to recreate the wedding Glow at any t
 
 It's a beautiful way for us to commemorate the wedding and keep its memory fresh and alive.  It's how we'll reach out and say, "we remember you, and we remember this day!"
 
-## One Final Surprise: Special Anniversary Glow
+## One Final Surprise
 
-There is one more surprise in store.  Every year on the date of the wedding anniversary, all the Pucks perform a special anniversary Glow that lasts the entire day.
+There is one more surprise in store.  Every year on the date of the wedding anniversary, the Pucks all perform a special celebration Glow that lasts the entire day.
 
 ## Theory of Operation
 
 ### At the Dinner
 
-The Pucks are built to operate in two different modes.  As table ornaments, they are mostly asleep/inert, running off battery power and invisibly awakening every minute or so to check for special messages.
+The Pucks are built to operate in two different modes.  As table ornaments, they are mostly asleep/inert, running off battery power and invisibly awakening every minute to check for special instructions.
 
-At the predetermined time, the speaker (or someone in the audience) quietly enables a special 2.4GHz "Hot Spot" on her smartphone.  This is the signal to begin.  When the Pucks next wake from sleep and detect WiFi SSID **wedding-fireworks**, they know to begin the spectacular Glow.
+At the predetermined time, the speaker (or someone in the audience) quietly enables a special 2.4GHz "Hot Spot" on her smartphone.  This is the signal to begin.  When the Pucks detect the new WiFi SSID **wedding-fireworks**, they know to begin the spectacular celebration Glow.
 
 The Pucks Glow for as long as that special WiFi SSID is enabled.  Once it disappears, they resume their semi-dormant state.
 
@@ -44,7 +44,7 @@ Teaching a Puck its new home's WiFi credentials involves putting it into "WiFi T
 
 Once set up, a Puck at home wakes whenever its brass discs are touched.  This triggers a glow that cascades around the world (limit one activation per Puck per day).
 
-A Puck at home wakes every minute to check whether any other Puck on the network has activated a Glow.  If so, it joins in!
+A Puck at home also wakes each minute to check whether any other Puck on the network has activated a Glow.  If so, it joins in!
 
 ## Build Guide
 
