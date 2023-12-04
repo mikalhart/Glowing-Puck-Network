@@ -10,7 +10,7 @@ Software install shouldn't be too tricky for anyone who has done any Arduino pro
 
 ## Materials
 
-You'll need to procure a handful of electronic and hardware items to build this project.
+You'll need to procure a handful of inexpensive electronic and hardware items to build this project.
 
 ### Electronic Components
 
