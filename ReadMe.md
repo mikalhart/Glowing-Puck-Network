@@ -1,6 +1,6 @@
 # The Glowing Wedding Puck
 
-Glowing Pucks are coaster-sized objects ostensibly built to decorate tables at a wedding/celebration dinner, but with a few surprises.  They are small resin sculptures, made of dried English wildflowers embedded in an epoxy disc, encased in a 3D-printed shell.
+Glowing Pucks are coaster-sized art objects ostensibly built to decorate tables at a celebration dinner, but with a few unexpected surprises.  They are small, circular resin creations made of dried English wildflowers embedded in an epoxy disc, encased in a 3D-printed shell.
 
 ![Pre-glow Puck](Images/Puck.jpg)
 
@@ -12,13 +12,13 @@ At a 'significant moment' in the dinner (e.g. when bride and groom reappear), th
 
 ## Understanding the Glow
 
-A speaker suddenly stands and explains to the murmuring guests that the  Glow we are witnessing is a symbol of the love and support we share for the new couple on the threshold of their married life.  It celebrates that we are a loving people who came together on this memorable day to wish them happiness.
+A speaker suddenly stands and explains to the murmuring guests that the  Glow is a symbol of the love and support we share for the new couple on the threshold of their married life.  It celebrates that we are a loving people who came together on this memorable day to wish them happiness.
 
 ## A New Surprise: More Glows to Come
 
 As the dinner progresses, the Pucks continue to Glow cheerily, but eventually they fade away and resume their inert state. The speaker rises once again.  The initial Glow phase has ended, she explains. In preparation for the next, we are to take our Pucks home, join them to our house WiFi, and place them in a prominent location.
 
-We learn that we have been given the power to recreate the wedding Glow at any time by touching the brass discs hidden on the underside.  An activated Puck sends a quiet message to its siblings around the world, inviting them all to join in a five-minute Glow. Touching the brass discs triggers a global chorus of light and remembrance.
+We learn that we have been given the power to recreate the wedding Glow at any time by touching two brass discs hidden on the Puck's underside.  An activated Puck sends a quiet message to its siblings around the world, inviting them all to join in a five-minute Glow. Touching the brass discs triggers a global chorus of light and remembrance.
 
 It's a beautiful way for us to commemorate the wedding and keep its memory fresh and alive.  It's how we'll reach out and say, "we remember you, and we remember this day!"
 
