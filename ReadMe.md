@@ -10,9 +10,9 @@ At a 'significant moment' in the dinner (e.g. when bride and groom reappear), th
 
 ![Glowing Pucks](Images/Glowing-Pucks.jpg)
 
-## Understanding the Glow
+## The Glow Explained
 
-A speaker suddenly stands and explains to the murmuring guests that the  Glow is a symbol of the love and support we share for the new couple on the threshold of their married life.  It celebrates that we are a loving people who came together on this memorable day to wish them happiness.
+A speaker suddenly stands and explains to the murmuring guests that the  Glow symbolizes the love and support we share for the new couple on the threshold of their married life.  It celebrates that we are a loving people who came together on this memorable day to wish them happiness.
 
 ## A New Surprise: More Glows to Come
 
