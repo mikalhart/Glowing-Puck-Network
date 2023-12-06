@@ -18,7 +18,7 @@ A speaker suddenly stands.  She explains to the murmuring guests that the Glow i
 
 As the dinner progresses the Pucks continue to Glow cheerily, but eventually they fade and resume their inert state. The speaker rises once again.  The initial phase has ended, she explains. In preparation for the next, we are to take our Pucks home, join them to our house WiFi, and place them in a prominent location.
 
-We learn that each of us has been granted the power to recreate the wedding Glow by touching two brass discs hidden on the Puck's underside.  A so-activated Puck begins to Glow and sends a quiet invitation to its siblings around the world to join in. Touching the brass discs triggers a global chorus of light and remembrance.
+We learn that each of us has been granted the power to recreate the wedding Glow by touching two brass discs hidden on the Puck's underside.  A so-activated Puck sends a quiet invitation to its siblings around the world to join in a new Glow. Touching the brass discs triggers a global chorus of light and remembrance.
 
 It's a beautiful way for us to commemorate the wedding and keep its memory fresh and alive.  It's how we'll reach out and say, "we remember you, and we remember this day!"
 
