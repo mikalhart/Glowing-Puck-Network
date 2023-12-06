@@ -6,7 +6,7 @@ Glowing Pucks are coaster-sized art objects ostensibly built to decorate tables 
 
 ## A Surprise
 
-At a 'significant moment' in the dinner (e.g. when bride and groom reappear), the various Pucks around the room mysteriously begin to glow: first one... then two... then eventually all of them.  Soon the whole room is illuminated with bright, colorful swirling light!
+At a 'significant moment' in the dinner (e.g. when bride and groom reappear), the Pucks around the room mysteriously begin to glow: first one... then two... then eventually all of them.  Soon the whole room is illuminated with bright, colorful swirling light!
 
 ![Glowing Pucks](Images/Glowing-Pucks.jpg)
 
