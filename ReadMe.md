@@ -1,6 +1,6 @@
 # The Glowing Puck
 
-Glowing Pucks are coaster-sized art objects ostensibly built to decorate tables at a celebration dinner, but with a few unexpected surprises.  They are small, circular resin creations made of dried English wildflowers embedded in an epoxy disc, encased in a 3D-printed shell.
+Glowing Pucks are coaster-sized art objects ostensibly built to decorate tables at a celebration dinner, but with a few surprises in store.  They are small, circular resin creations made of dried English wildflowers embedded in an epoxy disc, encased in a 3D-printed shell.
 
 ![Pre-glow Puck](Images/Puck.jpg)
 
