@@ -1,12 +1,12 @@
-# The Glowing Wedding Puck
+# The Glowing Puck
 
-Glowing Pucks are coaster-sized art objects ostensibly built to decorate tables at a celebration dinner, but with a few unexpected surprises.  They are small, circular resin creations made of dried English wildflowers embedded in an epoxy disc, encased in a 3D-printed shell.
+Glowing Pucks are coaster-sized art objects ostensibly built to decorate tables at a celebration dinner, but with a few surprises in store.  They are small, circular resin creations made of dried English wildflowers embedded in an epoxy disc, encased in a 3D-printed shell.
 
 ![Pre-glow Puck](Images/Puck.jpg)
 
 ## A Surprise
 
-At a 'significant moment' in the dinner (e.g. when bride and groom reappear), the various Pucks around the room mysteriously begin to glow: first one... then two... then eventually all of them.  Soon the whole room is illuminated with bright, colorful swirling light!
+At a 'significant moment' in the dinner (e.g. when bride and groom reappear), the Pucks around the room mysteriously begin to glow: first one... then two... then eventually all of them.  Soon the whole room is illuminated with bright, colorful swirling light!
 
 ![Glowing Pucks](Images/Glowing-Pucks.jpg)
 
