@@ -1,4 +1,4 @@
-# The Glowing Wedding Puck
+# The Glowing Puck
 
 Glowing Pucks are coaster-sized art objects ostensibly built to decorate tables at a celebration dinner, but with a few unexpected surprises.  They are small, circular resin creations made of dried English wildflowers embedded in an epoxy disc, encased in a 3D-printed shell.
 
