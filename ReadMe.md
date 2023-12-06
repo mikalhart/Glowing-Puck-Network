@@ -12,19 +12,19 @@ At a 'significant moment' in the dinner (e.g. when bride and groom reappear), th
 
 ## The Glow Explained
 
-A speaker suddenly stands and explains to the murmuring guests that the  Glow symbolizes the love and support we share for the new couple on the threshold of their married life.  It celebrates that we are a loving people who came together on this memorable day to wish them happiness.
+A speaker suddenly stands.  She explains to the murmuring guests that the Glow is intended to symbolize the love and support we share for the new couple on the threshold of their married life.  It celebrates that we are a loving people who came together on this memorable day to wish them happiness.
 
 ## A New Surprise: More Glows to Come
 
-As the dinner progresses, the Pucks continue to Glow cheerily, but eventually they fade away and resume their inert state. The speaker rises once again.  The initial Glow phase has ended, she explains. In preparation for the next, we are to take our Pucks home, join them to our house WiFi, and place them in a prominent location.
+As the dinner progresses the Pucks continue to Glow cheerily, but eventually they fade and resume their inert state. The speaker rises once again.  The initial phase has ended, she explains. In preparation for the next, we are to take our Pucks home, join them to our house WiFi, and place them in a prominent location.
 
-We learn that we have been given the power to recreate the wedding Glow at any time by touching two brass discs hidden on the Puck's underside.  An activated Puck sends a quiet message to its siblings around the world, inviting them all to join in a five-minute Glow. Touching the brass discs triggers a global chorus of light and remembrance.
+We learn that each of us has been granted the power to recreate the wedding Glow by touching two brass discs hidden on the Puck's underside.  A so-activated Puck sends a quiet invitation to its siblings around the world, requesting that they join in. Touching the brass discs triggers a global chorus of light and remembrance.
 
 It's a beautiful way for us to commemorate the wedding and keep its memory fresh and alive.  It's how we'll reach out and say, "we remember you, and we remember this day!"
 
 ## One Final Surprise
 
-There is one more surprise in store.  Every year on the date of the wedding anniversary, the Pucks all perform a special celebration Glow that lasts the entire day.
+The Pucks have one more surprise in store.  Every year on the date of the wedding anniversary, they perform a special celebration Glow that lasts the **entire day**.
 
 ## Theory of Operation
 
@@ -32,13 +32,13 @@ There is one more surprise in store.  Every year on the date of the wedding anni
 
 The Pucks are built to operate in two different modes.  As table ornaments, they are mostly asleep/inert, running off battery power and invisibly awakening every minute to check for special instructions.
 
-At the predetermined time, the speaker (or someone in the audience) quietly enables a special 2.4GHz "Hot Spot" on her smartphone.  This is the signal to begin.  When the Pucks detect the new WiFi SSID **wedding-fireworks**, they know to begin the spectacular celebration Glow.
+At the predetermined time, the speaker (or someone in the audience) quietly enables a special 2.4GHz "Hot Spot" on her smartphone.  This is the signal to begin.  When the Pucks detect the new WiFi SSID **wedding-fireworks**, they start the spectacular celebration Glow.
 
 The Pucks Glow for as long as that special WiFi SSID is enabled.  Once it disappears, they resume their semi-dormant state.
 
 ### At Home
 
-After the Pucks have been distributed to their new homes, they must be connected to WiFi to sync with the 'Glow network'.  At this point they should be kept more or less always plugged in.
+After the Pucks have been distributed to their new homes, they must be connected to WiFi to sync with the 'Glow network'.  At this point they will be kept more or less always plugged in.
 
 Teaching a Puck its new home's WiFi credentials involves putting it into "WiFi Training Mode" and configuring it with a cell phone or tablet. Instructions can be found in the [WiFi Training](WiFi-Training.md) document.
 
